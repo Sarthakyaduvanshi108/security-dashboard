@@ -1,0 +1,12 @@
+/* Global reset and base styles */
+body {
+  margin: 0;
+  font-family: Inter, sans-serif;
+  background-color: #1ed72a;
+  color: #111;
+}
+
+h1, h2, h3, h4 {
+  margin: 0;
+  font-weight: 600;
+}

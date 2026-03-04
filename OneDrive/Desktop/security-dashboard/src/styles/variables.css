@@ -1,0 +1,10 @@
+:root {
+  --color-teal: #0CC8A8;
+  --color-critical: #FF0000;
+  --color-high: #FF7F00;
+  --color-medium: #FFD700;
+  --color-low: #00AA00;
+
+  --bg-dark: #0F0F0F;
+  --bg-light: #F5F5F5;
+}
